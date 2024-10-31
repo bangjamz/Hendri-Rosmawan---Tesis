@@ -1,1 +1,8 @@
 # Hendri-Rosmawan---Tesis
+## Judul Tesis
+
+Judul tesis **"IMPLEMENTASI MODEL ANALISIS SENTIMEN SVM-PSO PENGGUNA GOOGLE PLACE REVIEW PERGURUAN TINGGI"**.
+
+Tesis ini juga memiliki judul dalam bahasa Inggris, yaitu **"IMPLEMENTATION OF SENTIMENT ANALYSIS MODEL SVM-PSO USER GOOGLE PLACE REVIEW COLLEGE"**.
+
+
